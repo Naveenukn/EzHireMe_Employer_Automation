@@ -1,0 +1,5 @@
+AppHooks\Hooks.class
+stepdefinitions\MyTestRunner.class
+stepdefinitions\Login_Service.class
+stepdefinitions\UserSignUp.class
+appElements\Login_Service_Elements.class
