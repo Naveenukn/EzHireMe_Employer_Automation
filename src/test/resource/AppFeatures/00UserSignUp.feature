@@ -43,7 +43,7 @@ Examples:
   	
   Examples:
 |companyName|  |companyWebsite|  |legalFirstName|  |legalLastName|  |contactNumber|  |email|  |password|  |confirmPassword|
-|JKTech Solutions|  |http://techsolutions.com|  |Tech|  |Solutions|  |9965388021|  |naveen00000000001@quanbytech.onmicrosoft.com|  |Naveen@001|  |Naveen@001| 
+|JKTech Solutions|  |http://techsolutions.com|  |Tech|  |Solutions|  |9965388021|  |naveen000000000001@quanbytech.onmicrosoft.com|  |Naveen@001|  |Naveen@001| 
 
 
 
